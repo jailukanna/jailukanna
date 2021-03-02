@@ -1,10 +1,10 @@
-# BINDU GADAGOTTU
+# BINDU G
 
 
 ### Hi there 👋
 
 
-I am BINDU GADAGOTTU. My main interest lies in Machine Learning,NLP,Computer vision,Deep Learning,AI,Robotics.  I am always curious to learn something new.
+I am BINDU G. My main interest lies in Machine Learning,NLP,Computer vision,Deep Learning,AI,Robotics.  I am always curious to learn something new.
 
 
 - 🔭 I’m currently working on AI projects.
