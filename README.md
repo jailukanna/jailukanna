@@ -6,10 +6,6 @@
 
 I am BINDU GADAGOTTU. My main interest lies in Machine Learning,NLP,Computer vision,Deep Learning,AI,Robotics.  I am always curious to learn something new.
 
-<!--
-**jailukanna/jailukanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 
 - 🔭 I’m currently working on AI projects.
 
