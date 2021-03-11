@@ -11,7 +11,7 @@ I am BINDU G. My main interest lies in Machine Learning,NLP,Computer vision,Deep
 
 - 🌱 I’m currently learning Deep Learning and Robotics.
 
-- 👯 I’m looking to collaborate on any Machine Learning,Deep Learning,NLP,Computer vision,AI,Robotics projects.
+- 👯 I’m looking to collaborate on any Machine Learning,Deep Learning,NLP,Computer vision,RL,DRL,AI,Robotics projects.
 
 - 🤔 I’m looking for help with Research And Development(R&D).
 
